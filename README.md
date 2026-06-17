@@ -168,7 +168,7 @@ Spark Logger is actively being developed. Upcoming features include:
 
 ## 📬 Support
 
-For support, join our [Discord Server](https://discord.gg/7tUZuZbk7R)  
+For support, join our [Discord Server](https://discord.gg/EzzBDHH3b9)  
 Spark Logger [Web Page](https://sparklogger.github.io/webpage/)
 
 ---
